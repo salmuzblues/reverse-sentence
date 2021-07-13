@@ -11,18 +11,20 @@ npm install @salmuz/reverse-sentence
 ## API
 
 ```js
-require("reverse-sentence") => Function 
+require("reverse-sentence") => Function
 reverse(sentence) => String
 ```
 
-## Example 
+## Example
+
 ```js
 const reverseSentence = require("reverse-sentence");
 const sentence = "Hello Salmuz!";
 const reversed = reverseSentence(sentence);
 console.log(reversed) // Salmuz! Hello;
 
-## License 
+## License
 
 MIT
 
+```
