@@ -1,6 +1,6 @@
 {
   "name": "@salmuzblues/reverse-sentence",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Reverses the words of a sentence",
   "main": "index.js",
   "scripts": {
