@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "./node_modules/prettier/bin-prettier.js . --write"
   },
-  "author": "Salmuz",
+  "author": "Juan Carranza Alarcón",
   "license": "MIT",
   "repository": {
     "type": "git",
